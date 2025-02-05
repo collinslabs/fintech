@@ -45,7 +45,7 @@ class Home extends StatelessWidget {
 
                       },
                       icon: const Icon(
-                        Icons.notification_add_rounded,
+                        Icons.notification_add_outlined,
                         color: Colors.white,
                       ),
                     ),
